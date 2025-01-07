@@ -1,0 +1,30 @@
+h1 {
+    color: #3498db; /* Blue color */
+    text-align: center; /* Center alignment */
+    font-family: 'Arial', sans-serif; /* Font style */
+    font-size: 36px; /* Font size */
+    text-shadow: 2px 2px 5px rgba(192, 228, 8, 0.3); /* Shadow effect */
+}
+
+.divcls{
+    color: purple;
+    background-color: teal;
+}
+
+.div1{
+    color: aqua;
+    background-color: bisque;
+}
+.div2{
+    color: aquamarine;
+    background-color: blueviolet;
+}
+.div3{
+    color: rgb(95, 50, 70);
+    background-color: #add5dd;
+}
+
+.box{
+    color: black;
+    background-color:lightblue;
+}

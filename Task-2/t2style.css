@@ -1,0 +1,14 @@
+#clock {
+    font-family: 'Arial', sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    color: #333;
+    background-color: rgb(95, 131, 162);
+    text-align: center;
+    margin-top: 20%;
+}
+
+#body{
+    background-color: rgb(61, 93, 108);
+    text-align: center;
+}
